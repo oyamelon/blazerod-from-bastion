@@ -375,19 +375,19 @@
     {
       "rolls": {
       "min": 1.0,
-      "max": 4.0,
+      "max": 6.0,
       "type": "minecraft:uniform"
       },
       "entries": [
         {
           "type": "item",
           "name": "minecraft:blaze_rod",
-          "weight": 1
+          "weight": 2
         },
         {
           "type": "item",
           "name": "minecraft:blaze_powder",
-          "weight": 2
+          "weight": 3
         },
         {
           "type": "empty",
